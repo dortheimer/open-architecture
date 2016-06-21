@@ -14,4 +14,5 @@ Why do we need a license for architecture?
 * Architects need a license that is flexible and allows them to sell their work without any restrictions while sharing their work with other professionals.
  
 More information about [open source architecture] (http://opensourcearchitecture.info).
+
 The license was written by [Jonathan Klingler](https://www.jonathanklinger.com/) and is based on the BSD license.
